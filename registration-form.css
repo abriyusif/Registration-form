@@ -1,0 +1,19 @@
+.container {
+    align-items: center;
+    justify-content: center;
+    background-color: green;
+    width: 60%;
+}
+
+.form1 {
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+    width: 50%;
+    margin: 50px;
+}
+
+
+
+
+
